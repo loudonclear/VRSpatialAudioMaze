@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.vrspatialaudiomaze.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\avd\\Desktop\\Loudon\\vrspatialaudiomaze\\actions.json",
+      "action_manifest_path": "C:\\Users\\Loudon\\Desktop\\Backups\\Desktop\\Projects\\VRSpatialAudioMaze\\actions.json",
       "strings": {
         "en_us": {
           "name": "VRSpatialAudioMaze [Testing]"

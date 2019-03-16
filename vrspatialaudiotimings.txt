@@ -1,0 +1,4 @@
+76.30658 using Audio
+71.17017 using Audio
+112.0204 using Audio
+238.0114 not using Audio
